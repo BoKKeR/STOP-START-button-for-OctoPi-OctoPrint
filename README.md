@@ -4,4 +4,6 @@ Easy STOP/START button solution for stopping and starting the 3D print job on oc
 
 The code is very simple, every time the physical button is pressed the server check if there is a printer job running, if there is one it stops it otherwise it starts a job that is preselected.
 
- 
+More detailed tutorial:
+
+http://tnorbert.com/blog/stop-start-button
