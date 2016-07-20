@@ -1,6 +1,5 @@
 API = "enter octoprint api key"
 
-
 import RPi.GPIO as GPIO
 import time
 import json
