@@ -6,4 +6,4 @@ The code is very simple, every time the physical button is pressed the server ch
 
 More detailed tutorial:
 
-http://tnorbert.com/blog/stop-start-button
+http://tnorbert.com/blog/
